@@ -27,7 +27,7 @@
 
 5. #### What is the cost of the Masterclass?
 <ul>The programme costs 2,000 CAD. Payments in installments can be done as well.</ul>
-<ul>Before making payment, you can register to be part of the Masterclass by filling out the [registration form](https://malinconsulting.ca/training "Register here").</ul>
+<ul>Before making payment, you can register to be part of the Masterclass by filling out the <a href="https://malinconsulting.ca/training" >registration form</a>.</ul>
 <ul>Once registration is complete, you will get payments details sent to you.</ul>
 
 6. #### What else do I get from the Masterclass?
@@ -37,4 +37,4 @@
 <ul>Some of the participants will have internship opportunities with some of the best consulting firms.</ul>
 
 7. #### If I have more questions, how I do get answers?
-<ul>To find out more about the programme, send an email to [training@malinconsulting.ca](mailto: training@malinconsulting.ca)</ul>
+<ul>To find out more about the programme, send an email to <a href="mailto: training@malinconsulting.ca" >training@malinconsulting.ca</a></ul>
