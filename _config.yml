@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: alembic-jekyll-theme
 title: Cloud Engineering Masterclass
 description: Learn more about the Cloud Engineering Masterclass offered by Malin Consulting. Accelerate your career by gaining critical Cloud Engineering skills.
