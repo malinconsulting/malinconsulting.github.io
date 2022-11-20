@@ -1,6 +1,6 @@
 ### Cloud Engineering Masterclass
 
-###### Find answers to commonly asked questions about Malin Consulting Cloud Engineering Masterclass.
+#### Find answers to commonly asked questions about Malin Consulting Cloud Engineering Masterclass.
 
 1. #### When does the Masterclass begin?
 <ul>Classes begin January 14 and end March 2</ul> 
