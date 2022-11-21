@@ -16,7 +16,7 @@
 <li>Sunday between 14:00 EST and 16:00 EST</li>
 </ul>
 
-<li><b>What kinds of roles can I perform after this training?</b></li>
+<li><b>What jobs can I get after this training?</b></li>
 <ul style="list-style: none;">
 <li>Cloud Engineer</li>
 <li>Site Reliability Engineer</li>
@@ -36,7 +36,7 @@
 
 <li><b>What is the cost of the Masterclass?</b></li>
 <ul style="list-style: none;">
-<li>The programme costs 2,000 CAD. Payments in installments can be done as well.</li>
+<li>The programme costs 2,000 CAD. Payment in installments is available.</li>
 <li>Before making payment, you can register to be part of the Masterclass by filling out the <a href="https://malinconsulting.ca/training" >registration form</a>.</li>
 <li>Once registration is complete, you will get payments details sent to you.</li>
 </ul>
@@ -45,7 +45,7 @@
 <ul style="list-style: none;">
 <li>In addition to the technical training, you will get a voucher to take one cloud certification examination at the end of the programme.</li>
 <li>Our team of in-house experts will work with you to prepare your resume for the job market.</li>
-<li>You will get access to professional assistance when preparing for interviews.</li>
+<li>You will get professional assistance when preparing for interviews.</li>
 <li>Some of the participants will have internship opportunities with some of the best consulting firms.</li>
 </ul>
 
