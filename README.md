@@ -49,6 +49,11 @@
 <li>Some of the participants will have internship opportunities with some of the best consulting firms.</li>
 </ul>
 
+<li><b>Will I get to work on any projects?</b></li>
+<ul style="list-style: none;">
+<li>You will get to work on multiple projects during the bootcamp, with a capstone project at the end to display real world cloud engineering experience.</li>
+</ul>
+
 <li><b>If I have more questions, how I do get answers?</b></li>
 <ul style="list-style: none;">
 <li>To find out more about the programme, send an email to <a href="mailto: training@malinconsulting.ca" >training@malinconsulting.ca</a></li>
